@@ -1,0 +1,42 @@
+.nav-link{
+  margin-left: 10px;
+}
+
+.footerLinks{
+  text-decoration: none;
+  color: dimgray;
+  line-height: 2.5;
+}
+
+.createTicketLinks{
+  text-decoration: none;
+  line-height: 2.5;
+  font-size: large;
+}
+
+#supportHeroBG{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+
+#supportHeroBG a, li{
+  color: white;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 5%;
+  color: white;
+}
+
+#supportHeroBG input{
+  padding: 15px 30px;
+  width: 100%;
+  border-radius: 4px;
+  border: none;
+}
+
+.brokeLI{
+  color: #777;
+}
