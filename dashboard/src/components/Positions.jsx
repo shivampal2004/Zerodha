@@ -1,7 +1,5 @@
-import React, {useEffect, useState} from "react";
+import {useEffect, useState} from "react";
 import axios from "axios";
-
-// import { positions } from "../data/data";
 
 export default function Positions() {
   const [allPositions, setAllPositions]= useState([]);
